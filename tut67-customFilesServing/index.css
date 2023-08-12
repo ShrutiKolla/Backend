@@ -1,0 +1,10 @@
+ul {
+    display: flex;
+}
+li {
+    margin: 20px;
+    list-style: none;
+}
+body {
+    color: antiquewhite;
+}
